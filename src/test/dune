@@ -1,0 +1,4 @@
+(executable
+ (name test_utils)
+ (modes byte)
+ (libraries utils base))
